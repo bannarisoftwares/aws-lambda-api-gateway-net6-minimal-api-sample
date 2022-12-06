@@ -1,4 +1,4 @@
-name: dotnet6 minimal api lambda sample pipeline
+name: dotnet6 minimal api lambda sample pipelines
 
 on:
   push:
